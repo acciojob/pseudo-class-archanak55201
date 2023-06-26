@@ -1,13 +1,10 @@
 /*  your css code here. If applicable */
-.before{
-	font-size:20px;
-	color:rgb(255,0,0);
+
+.main::before{
+	content:"Before Element";
+	color:red;	
 }
-.main1{
-	display:flex;
-	
-}
-.after{
-	font-size:20px;
-	color:rgb(255,0,0);
+.main::after{
+	content:"After element";
+	color:red;
 }
