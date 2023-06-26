@@ -1,17 +1,12 @@
 /*  your css code here. If applicable */
 .before{
 	font-size:20px;
-	
-	
+	color:red;
 }
 .main1{
 	display:flex;
 }
-
 .after{
-	
 	font-size:20px;
-	
-
-
+	color:red;
 }
